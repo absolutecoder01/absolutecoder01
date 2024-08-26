@@ -4,9 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=absolutecoder01&label=Profile%20views&color=0e75b6&style=flat" alt="absolutecoder01" /> </p>
 
 
-- 🔭 I’m currently working on **Nothing**
-
-- 🌱 I’m currently learning **Algorithms**
+- 🌱 I’m currently learning **Algorithms, Java**
 
 - 💬 Ask me about **Python, HTML, CSS, JS, MySQL**
 
