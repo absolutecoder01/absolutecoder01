@@ -15,77 +15,101 @@ WELCOME TO MY PROFILE
 ---
 
 ```bash
-> skills --list
+> skills --learning --layout
 ```
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" />
 
----
+<br>
+
+<div>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/-LESS-1D365D?style=for-the-badge&logo=Less&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
+</div>
+<br>
 
 ```bash
-> skills --learning
+> skills --learning --frontend
 ```
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-
----
+<br>
+<div>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
+</div>
+<br>
 
 ```bash
-> tests --frameworks
+> skills --learning --backend
 ```
-<img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="playwright" />
+<br>
+<div>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
+</div>
+<br>
+
+```bash
+> tests --frameworks && package-managers
+```
+<br>
+<div>
+<img src="https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=Playwright&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Cypress-100000?style=for-the-badge&logo=Cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white" />
+<img src="https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+</div>
+<br>
+ 
+```bash
+> skills --learning --databases
+```
+<br>
+<div>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQLite-a1a1a1?style=for-the-badge&logo=SQLite&logoColor=white" />
+ 
+</div>
+<br>
+
+```bash
+> system --os
+```
+<br>
+<div>
+<img src="https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=Apple&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
+</div>
+<br>
 
 ---
 
 ```bash
 > tools --ide
 ```
+<br>
+<div style="display:inline;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm" />
-
----
-
-```bash
-> system --os
-```
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
-<img src="https://github.com/user-attachments/assets/42004f4c-59d6-403a-9887-00d9a967b224" height="40" alt="apple" />
+</div>
+<br>
 
 ---
 
 ```bash
 > github --stats
 ```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=absolutecoder01&theme=matrix&show_icons=true&hide_border=true&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absolutecoder01&theme=matrix&show_icons=true&hide_border=true&layout=compact)
-
----
-
-## ☎️ REACH ME
+![Volodymyr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=absolutecoder01&theme=matrix&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absolutecoder01&theme=matrix&show_icons=true&hide_border=true&layout=compact)
 
 ```bash
 > whois absolutecoder01
