@@ -108,8 +108,10 @@ WELCOME TO MY PROFILE
 > github --stats
 ```
 
-![Volodymyr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=absolutecoder01&theme=matrix&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absolutecoder01&theme=matrix&show_icons=true&hide_border=true&layout=compact)
+ 
+![absolutecoder01's Stats](https://github-readme-stats.vercel.app/api?username=absolutecoder01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![absolutecoder01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=absolutecoder01&theme=tokyonight&hide_border=true)
+![absolutecoder01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absolutecoder01&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ```bash
 > whois absolutecoder01
