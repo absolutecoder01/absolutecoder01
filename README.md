@@ -24,7 +24,6 @@ WELCOME TO MY PROFILE
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/-LESS-1D365D?style=for-the-badge&logo=Less&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
 </div>
 <br>
@@ -60,7 +59,6 @@ WELCOME TO MY PROFILE
  <img src="https://img.shields.io/badge/-Cypress-100000?style=for-the-badge&logo=Cypress&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white" />
-<img src="https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
 </div>
 <br>
  
@@ -70,7 +68,6 @@ WELCOME TO MY PROFILE
 <br>
 <div>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQLite-a1a1a1?style=for-the-badge&logo=SQLite&logoColor=white" />
  
 </div>
@@ -93,13 +90,13 @@ WELCOME TO MY PROFILE
 > tools --ide
 ```
 <br>
-<div style="display:inline;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm" />
-</div>
+
+| VSCode | Visual Studio | JetBrains | PyCharm | IntelliJ | Eclipse | NetBeans | Sublime Text | Atom | Zed |
+|--------|---------------|-----------|---------|----------|---------|----------|--------------|------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" /> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sublimetext.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" /> |  <img src="https://logo.svgcdn.com/devicon/zed-original.svg" height="40" /> |
+
+
+
 <br>
 
 ---
