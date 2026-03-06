@@ -84,32 +84,6 @@ WELCOME TO MY PROFILE
 </div>
 <br>
 
----
-
-```bash
-> tools --ide
-```
-<br>
-
-| VSCode | Visual Studio | JetBrains | PyCharm | IntelliJ | Eclipse | NetBeans | Sublime Text | Atom | Zed |
-|--------|---------------|-----------|---------|----------|---------|----------|--------------|------|-----|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" /> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sublimetext.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" /> |  <img src="https://logo.svgcdn.com/devicon/zed-original.svg" height="40" /> |
-
-
-
-<br>
-
----
-
-```bash
-> github --stats
-```
-
- 
-![absolutecoder01's Stats](https://github-readme-stats.vercel.app/api?username=absolutecoder01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![absolutecoder01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=absolutecoder01&theme=tokyonight&hide_border=true)
-![absolutecoder01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absolutecoder01&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 ```bash
 > whois absolutecoder01
 ```
