@@ -49,13 +49,12 @@ WELCOME TO MY PROFILE
 <br>
 
 ```bash
-> tests --frameworks && package-managers
+> tests --frameworks && package-manager
 ```
 <br>
 <div>
 <img src="https://img.shields.io/badge/-Playwright-000000?style=for-the-badge&logo=Playwright&logoColor=white" />
- <img src="https://img.shields.io/badge/-Cypress-100000?style=for-the-badge&logo=Cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cypress-100000?style=for-the-badge&logo=Cypress&logoColor=white" />
 <img src="https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white" />
 </div>
 <br>
