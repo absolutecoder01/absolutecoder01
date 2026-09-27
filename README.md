@@ -8,7 +8,7 @@ __        _______ _     ____ ___  __  __ _____   _______     __   __  ___   _   
 WELCOME TO MY PROFILE
 ```
 
-<b>I'm 𝓥𝓸𝓵𝓸𝓭𝔂𝓶𝔂𝓻 — future Full-Stack Developer 💻🖱️</b>
+<b>I'm 𝓥𝓸𝓵𝓸𝓭𝔂𝓶𝔂𝓻 — Junior Full-Stack Developer 💻🖱️</b>
 
 ---
 
